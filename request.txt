@@ -1,0 +1,7 @@
+Flask
+requests
+dnspython
+python-whois
+ipwhois
+reportlab
+gunicorn
